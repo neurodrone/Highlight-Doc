@@ -11,7 +11,7 @@
 # 	an ideal solution for the problem. I have tried to attempt an approach aimed at solving most of them as follows. 
 # 	As an aside, I have also hosted a working copy on Google's AppEngine which is available at the aforementioned URL.
 #
-#	Input(2:string): A document string to compare against a query string.
+#	Input(2:string): A document string to compare against a query string. 
 # 	Output(1:string): A single string comprising of relevant information pertaining to the 'query' from the 'doc'.
 
 import re

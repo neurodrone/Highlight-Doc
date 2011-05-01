@@ -25,3 +25,5 @@ Description:
 Extra:
 	I had a lot of fun working on this project and I feel quite comfortable in Python now. However, I thought I could do something more to add into it all. So, I also uploaded a working copy of my project on the following url and used it to try out different queries quickly. The link is provided as follows.
 	URL: http://highlightdocdemo.appspot.com/
+	
+	You can find the complete source for the app-engine demo at: https://github.com/neurodrone/Highlight-Doc-Demo
