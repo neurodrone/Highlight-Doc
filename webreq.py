@@ -15,7 +15,7 @@ class MainPage(webapp.RequestHandler):
 		self.response.out.write("""
           <html>
             <body>
-				<h1>Highlight Doc Demo</h1>
+			<h1>Highlight Doc Demo</h1>
               <form action="/query" method="post">
                 <div><h4>Document: <i>(Editable)</i>&nbsp;</h4><textarea name="content" value="" rows="20" cols="60">"""
 				+ txtcontentvalue +
