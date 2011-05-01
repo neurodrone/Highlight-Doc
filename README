@@ -1,0 +1,27 @@
+Author: vaibhav@bhembre.com
+Language used to code in: Python
+Runtime-version: v2.6.1
+
+Files:
+	1. README (text)
+	2. highlightdoc.py (code)
+	3. testhighlight.py (code)
+
+Description:
+	1. README:
+		It is the file you are currently reading. It contains a short summary of the project and the files contained within. 
+		
+	2. highlightdoc.py:
+		It contains the code for the solution of the code test. The function named "highlight_doc" is main function of this module. It takes two inputs and scours the first for the second to find if any relevant snippet of information pertaining to the second is present. It returns the snippet as an output string if a match is found or responds saying no match could be found.
+	
+	3. testhightlight.py:
+		Consists of a set of testcases to actively compare against the highlightdoc module. Can be run from command line in any of the two following ways (if the second one doesn't work: 'chmod +x' might be needed):
+		- $ python testhightlight.py
+		OR
+		- $ ./testhighlight.py 
+		
+Extra:
+	I had a lot of fun working on this project and I feel quite comfortable in Python now. However, I thought I could do something more to add into it all. So, I also uploaded a working copy of my project on the following url and used it to try out different queries quickly. The link is provided as follows.
+	URL: http://highlightdocdemo.appspot.com/
+	
+	You can find the complete source for the app-engine demo at: https://github.com/neurodrone/Highlight-Doc-Demo
